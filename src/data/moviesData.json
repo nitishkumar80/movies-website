@@ -15,10 +15,10 @@
       "cast": ["Leonardo DiCaprio", "Marion Cotillard", "Tom Hardy"],
       "language": "English",
       "downloadUrls": {
-        "4K": "https://mega.nz/file/mL4WiI5R#SlIcZJUN_Vxoe-PxojUez4VUf4zqVCLLasrxl4-qzy4",
-        "1080p": "https://mega.nz/file/mL4WiI5R#SlIcZJUN_Vxoe-PxojUez4VUf4zqVCLLasrxl4-qzy4",
-        "720p": "https://mega.nz/file/mL4WiI5R#SlIcZJUN_Vxoe-PxojUez4VUf4zqVCLLasrxl4-qzy4",
-        "480p": "https://mega.nz/file/mL4WiI5R#SlIcZJUN_Vxoe-PxojUez4VUf4zqVCLLasrxl4-qzy4"
+        "4K": "#",
+        "1080p": "#",
+        "720p": "#",
+        "480p": "#"
       },
       "streamUrl": "#stream-inception",
       "trailerUrl": "#trailer-inception"
